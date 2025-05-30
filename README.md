@@ -2,8 +2,6 @@
 [![GitHub](https://img.shields.io/badge/View_Code-black?style=for-the-badge)](https://github.com/DIBERLOG/the-minecraft-project)
 ### 3. The Minecraft Project (3D Воксельный движок)
 ```markdown
-
-
 Упрощенный 3D-движок с механиками Minecraft.
 
 ## ⛏️ Особенности
